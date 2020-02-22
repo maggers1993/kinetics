@@ -3,7 +3,7 @@ dependencies:
   - pandas
   - scipy
   - numpy
-  - matplotlib.pylot
+  - matplotlib
   - nbserverproxy
   - pip
   - pip:
